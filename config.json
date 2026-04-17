@@ -27,7 +27,7 @@
   },
   "userInterfaces": {
     "configModal": {
-      "url": "https://guillaumesutera-lab.github.io/TEST2/index.html",
+      "url": "index.html",
       "height": 400,
       "width": 600
     }
